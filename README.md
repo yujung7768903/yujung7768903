@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 💻 Experiences
 * 오픈소스 기여를 통해 프로젝트 유지&보수와 관련된 경험을 했습니다.([보러가기](https://velog.io/@youjung/2021-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%9B%84%EA%B8%B0))
-* 인턴 경험을 통해 기능 추가나 버그 해결 등 서비스 개선과 관련된 경험을 했습니다.([보러가기](https://velog.io/@youjung/IT-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%9C-%EC%B2%AB-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%9E%98%EB%B8%94%EC%97%85))
+* 인턴 경험을 통해 기능 추가, 버그 해결, 리팩토링 등 서비스 개선과 관련된 경험을 했습니다.([보러가기](https://velog.io/@youjung/IT-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%9C-%EC%B2%AB-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%9E%98%EB%B8%94%EC%97%85))
 
 ## 🛠 Skills
 ### Languge

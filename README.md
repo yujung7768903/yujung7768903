@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-* 👩🏻‍💻 Potflio: [Click here!](https://windy-boater-d00.notion.site/Youjung-Kim-0bfc2f7d29cd48498ee0629758f6f8bc)  
+* 👩🏻‍💻 Potflio: [Click here!](https://yujung7768903.notion.site/Backend-Developer-0bfc2f7d29cd48498ee0629758f6f8bc)  
 * <img src="https://user-images.githubusercontent.com/68562176/175469279-993af7bc-9aff-443a-8c6c-6eaec6f35a0a.jpg" style="width : 16px;"> Blog: https://velog.io/@youjung
 
 ## 💻 Experiences

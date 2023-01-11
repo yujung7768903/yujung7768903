@@ -1,7 +1,7 @@
 ![노션-커버(남색-배경+물방웅)](https://user-images.githubusercontent.com/68562176/175475764-8e7ddc0a-8c29-4caa-9bae-dbbb0830d7f5.gif)
     
 
-## 안녕하세요. 어제보다 더 나은 오늘을 보내기 위해 노력하는 <br /> 주니어 백엔드 개발자, 김유정입니다😀
+## 안녕하세요. 어제보다 더 나은 오늘을 보내기 위해 노력하는 <br /> 주니어 백엔드 개발자, 김유정입니다.
 👀 다양한 것을 보고 경험하는 것을 좋아합니다. 다양한 경험 덕분에 백엔드 개발에 대한 확신을 얻게 되었습니다.     
 👂 같은 소리 여러 번 듣지 않게 조언을 빠르게 습득하는 편입니다.      
 👄 사람들과 소통하는 것을 좋아합니다. 비개발자와 개발자 모두 원활하게 소통할 수 있도록 상대를 고려하면서 말하려고 노력합니다.        
@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 -->
 
-* 👩🏻‍💻 Potflio: [Click here!](https://my.surfit.io/w/448485050)  
-* <img src="https://user-images.githubusercontent.com/68562176/175469279-993af7bc-9aff-443a-8c6c-6eaec6f35a0a.jpg" style="width : 16px;"> Blog: https://velog.io/@youjung
+> Potflio: [Click here!](https://my.surfit.io/w/448485050)  
+> Blog: https://velog.io/@youjung
 
 ## 💻 Summary
 
-|내용|기간|분류|기술|역할|참고 링크|
+|**내용**|**기간**|**분류**|**기술**|**역할**|**참고 링크**|
 |--|--|--|--|--|--|
 |세컨신드롬 인턴십|2022.11 ~ 2022.12|업무|- Kotlin, Spring<br/>- PostgreSQL, Querydsl<br/>- Grafana|- 모니터링 시스템 개발<br/>- 다국어 처리<br/>- API 개발||
 |저기다|2022.07 ~ 2022.10|팀프로젝트|- Java, Spring<br/>- MySQL, MyBatis|- API 개발<br/>- Amazon EC2와 RDS를 활용한 수동 배포|[Github Repository](https://github.com/yujung7768903/jeogida-backend)|

@@ -1,4 +1,4 @@
-![노션-커버(남색-배경+물방웅)](https://user-images.githubusercontent.com/68562176/175475764-8e7ddc0a-8c29-4caa-9bae-dbbb0830d7f5.gif)
+<!-- ![노션-커버(남색-배경+물방웅)](https://user-images.githubusercontent.com/68562176/175475764-8e7ddc0a-8c29-4caa-9bae-dbbb0830d7f5.gif) -->
     
 
 ## 안녕하세요. 어제보다 더 나은 오늘을 보내기 위해 노력하는 <br /> 주니어 백엔드 개발자, 김유정입니다.

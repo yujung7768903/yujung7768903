@@ -8,42 +8,27 @@
 🧠 인턴과 오픈소스를 경험하면서 질문하는 타이밍과 방법에 대해 많은 고민을 했습니다.        
 
 처음부터 완벽하게 잘하기는 어렵겠지만, 스펀지처럼 빠르게 흡수하여 성장하는 모습 보여드리겠습니다.
-<!--
-**yujung7768903/yujung7768903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Potfolio
+[Click here!](https://youjung.oopy.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-* 🌱 I’m currently learning: Java, Spring
-* 💻 I’m currently working on: 한이음에서 주차장의 여유 공간을 나타내는 앱 서비스를 제작하고 있습니다. 백엔드 개발을 담당하고 있으며, Java와 Spring을 이용해 개발중입니다.
+## Summary
+#### Work
+`2022.11 ~ 2022.12`  [세컨신드롬 제품개발팀 인턴](https://youjung.oopy.io/work/secondsyndrome)
 
--->
+#### Backend Experience
+`2022.07 ~ 2022.10`  [한이음 주차공간 찾기 서비스 개발](https://youjung.oopy.io/hanium)       
+`2022.07 ~ 2022.08`  [성신여자대학교 소프트웨어 경진대회 참여](https://youjung.oopy.io/meets)
 
-> Potflio: [Click here!](https://my.surfit.io/w/448485050)  
-> Blog: https://velog.io/@youjung
-
-## 💻 Summary
-
-|**내용**|**기간**|**분류**|**기술**|**역할**|**참고 링크**|
-|--|--|--|--|--|--|
-|세컨신드롬 인턴십|2022.11 ~ 2022.12|업무|- Kotlin, Spring<br/>- PostgreSQL, Querydsl<br/>- Grafana|- 모니터링 시스템 개발<br/>- 다국어 처리<br/>- API 개발||
-|저기다|2022.07 ~ 2022.10|팀프로젝트|- Java, Spring<br/>- MySQL, MyBatis|- API 개발<br/>- Amazon EC2와 RDS를 활용한 수동 배포|[Github Repository](https://github.com/yujung7768903/jeogida-backend)|
-|쿠키즈|2022.09|해커톤, 팀프로젝트|- Java, Spring<br/>-MySQL|- API 개발||
-|밋츠|2022.07 ~ 2022.08|팀프로젝트|- Java, Spring<br/>-MySQL|- API 개발<br/>- Amazon EC2와 RDS를 활용한 수동 배포|[Github Repository](https://github.com/sswu-meets/meets)|
-|래블업 인턴십|2021.11 ~ 2021.12|업무|- Python<br/>- TypeScript|- 서비스 개선 이슈 진행<br/>- 기능 추가|[인턴십 회고 글](https://velog.io/@youjung/IT-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%9C-%EC%B2%AB-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%9E%98%EB%B8%94%EC%97%85)|
-
-## 🛠 Skills
-### Languge
+#### Other Experience
+`2021.08 ~ 2021.12`  [2021 오픈소스 컨트리뷰션 아카데미 참여](https://youjung.oopy.io/opensource-contribution)     
+`2020.06 ~ 2021.06`  [창업동아리 SK Lookie](https://youjung.oopy.io/sk-lookie)
+ 
+## Skills
+#### Languge
   ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](http://img.shields.io/badge/JavaSCript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Framework
+#### Framework
   ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Vue.js](http://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)

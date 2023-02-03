@@ -9,7 +9,7 @@
 
 처음부터 완벽하게 잘하기는 어렵겠지만, 스펀지처럼 빠르게 흡수하여 성장하는 모습 보여드리겠습니다.
 
-## Potfolio
+## Portfolio
 [Click here!](https://youjung.oopy.io/)
 
 ## Summary

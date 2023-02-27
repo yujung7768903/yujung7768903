@@ -17,7 +17,7 @@
 `2022.11 ~ 2022.12`  [세컨신드롬 제품개발팀 인턴](https://youjung.oopy.io/work/secondsyndrome)
 
 #### Backend Experience
-`2022.07 ~ 2022.10`  [한이음 주차공간 찾기 서비스 개발](https://youjung.oopy.io/hanium)       
+`2022.07 ~ 2022.10`  [한이음 주차공간 찾기 서비스 개발](https://github.com/yujung7768903/jeogida-backend)       
 `2022.07 ~ 2022.08`  [성신여자대학교 소프트웨어 경진대회 참여](https://youjung.oopy.io/meets)
 
 #### Other Experience

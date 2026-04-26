@@ -1,29 +1,24 @@
-<!-- ![노션-커버(남색-배경+물방웅)](https://user-images.githubusercontent.com/68562176/175475764-8e7ddc0a-8c29-4caa-9bae-dbbb0830d7f5.gif) -->
-    
-
-## 안녕하세요. 코드 분석을 좋아하는 백엔드 개발자, 김유정입니다.
-⭐️ 첫째도 분석!둘째도 분석! 개발해야하는 상황과 목표, 코드 구조 등을 분석하고 작업합니다.        
-📝 제 기억력을 믿지 않기 때문에, 글로 정리하는 습관을 가지고 있습니다.        
-👄 사람들과 소통하는 것을 좋아합니다. 비개발자와 개발자 모두 원활하게 소통할 수 있도록 상대를 고려하면서 말하려고 노력합니다.        
+## 안녕하세요. 백엔드 개발자, 김유정입니다.
+* Java, Spring 을 메인으로 사용하고 있는 백엔드 개발자입니다.     
+* 평균 MAU 350만, 이슈에 따라 변동성이 큰 환경을 가진 한국일보에서 기사 작성 시스템 개발 및 AWS 인프라 이관 업무를 해왔습니다.    
+* 연차나 역량에 제한을 두지 않습니다. AWS 인프라 전환 프로젝트를 리딩하며 성공적으로 이관했고, 아키텍쳐 설계부터 구현, 운영까지 모두 경험했습니다.    
+* 더 나은 개발 환경을 만들기 위해 노력합니다. 누구도 손대기 싫어했던 레거시 프로젝트를 배포 환경 구축, 사용하지 않는 코드 제거, 테스트 코드 추가, 데이터 구조 개선을 통해 리팩토링 하여 개발 편의성을 높였습니다.
 
 ## Summary
-#### Work
+#### Career
 `2023.08 ~ 현재`      한국일보 플랫폼개발부문 백엔드개발자            
 `2022.11 ~ 2022.12`  세컨신드롬 제품개발팀 인턴        
 
-#### Backend Experience
-`2022.07 ~ 2022.10`  한이음 주차공간 찾기 서비스 개발        
-`2022.07 ~ 2022.08`  성신여자대학교 소프트웨어 경진대회 참여    
-
-#### Other Experience
-`2021.08 ~ 2021.12`  2021 오픈소스 컨트리뷰션 아카데미 참여        
-`2020.06 ~ 2021.06`  창업동아리 SK Lookie
+#### Experience
+`2023.02 ~ 2025.03`  글또(8기 ~ 10기)        
+`2021.08 ~ 2021.12`  Backend.AI 오픈소스 참여    
  
 ## Skills
-#### Languge
-  ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](http://img.shields.io/badge/JavaSCript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-#### Framework
-  ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Vue.js](http://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+#### Backend
+Java, Spring Boot, JPA, MyBatis, Python, ActiveMQ
+#### AWS
+EC2, RDS, Aurora MySQL, Managed Flink, CloudWatch, Lambda, MediaConvert
+#### Database
+MySQL, Redis
+#### DevOps
+Jenkins, Whatap, Nginx
